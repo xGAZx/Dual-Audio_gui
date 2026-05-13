@@ -3,10 +3,6 @@ Dual Bluetooth Audio Mirror
 [DISCLAMER]
 THIS IS A VIBE CODED  THAT I JUST WANT TO SHARE.
 
-[Initial Step]
-You need to install PyAudioWPatch
-Use command "pip install PyAudioWPatch" in your powershell first.!
-
 A small Windows Python tool that lets you play the same PC audio through two audio devices at the same time, such as two Bluetooth headphones, speakers, or earphones.
 
 The goal is not true lossless audio. The goal is the highest practical Bluetooth quality Windows can deliver while keeping playback stable.
