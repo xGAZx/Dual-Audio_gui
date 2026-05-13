@@ -23,7 +23,7 @@ Optional extra output  -> Your 3rd audio (If your Bluetooth can handle).
 HOW TO USE.
 [Initial Step]
 You need to install PyAudioWPatch
-Use command "pip install PyAudioWPatch" in your powershell first.!
+Mentioned in the dependencies file.
 
 Then where the script is installed open terminal and type -> py "scriptName".py
 EX -> "py dual_audio_gui.py" 
